@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524007374 source:d:\huk\trabajo_en_clase_estructuras_17_04_18\estructuras_ordenamiento_con_ingreso_de_dato_trabajo_clase\estructura.c
+
+1524009077 source:d:\huk\trabajo_en_clase_estructuras_17_04_18\estructuras_ordenamiento_con_ingreso_de_dato_trabajo_clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructura.h"
+
+1524009097 d:\huk\trabajo_en_clase_estructuras_17_04_18\estructuras_ordenamiento_con_ingreso_de_dato_trabajo_clase\estructura.h
+
