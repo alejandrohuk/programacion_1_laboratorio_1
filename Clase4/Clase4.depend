@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527797395 source:/home/ale/Documentos/facu/Clase4/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1528642870 source:/home/ale/Documentos/facu/Clase4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1527798237 /home/ale/Documentos/facu/Clase4/funciones.h
+
